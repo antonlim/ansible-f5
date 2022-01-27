@@ -13,7 +13,6 @@
           name: "pool_ansible"
           monitor: "Common/icmp"
           partition: "Common"
-          test
           members:
             name: "testing:80"
             address: "30.30.30.30"
