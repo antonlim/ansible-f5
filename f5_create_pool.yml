@@ -14,7 +14,7 @@
           monitor: "Common/icmp"
           partition: "Common"
           members:
-            name: "30.30.30.30:80"
+            name: "Common/30.30.30.30:80"
             address: "30.30.30.30"
         body_format: json
         headers:
