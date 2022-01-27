@@ -11,7 +11,7 @@
         method: POST
         body:  
           name: "pool_ansible"
-          monitor: "Common/gateway_icmp"
+          monitor: "/Common/gateway_icmp"
           partition: "Common"
         body_format: json
         headers:
